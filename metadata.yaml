@@ -1,0 +1,40 @@
+_repo: The-Works-of-Edgar-Allan-Poe---Volume-4_2150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf:
+- Horror
+- Mystery Fiction
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+tableOfContents: 'The devil in the belfry -- Lionizing -- X-ing a paragrab -- Metzengerstein
+  -- The system of Doctor Tarr and Professor Fether -- The literary life of Thingum
+  Bob, Esq. -- How to write a Blackwood article -- A predicament -- Mystification
+  -- Diddling -- The Angel of the Odd -- Mellonia tauta -- The Duc De L''Omlette --
+  The oblong box -- Loss of breath -- The man that was used up -- The business man
+  -- The landscape garden -- Maelzel''s chess-player -- The power of words -- The
+  colloquy of Monas and Una -- The conversation of Eiros and Charmion -- Shadow: a
+  parable.'
+title: The Works of Edgar Allan Poe — Volume 4
+url: http://www.gutenberg.org/ebooks/2150
